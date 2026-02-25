@@ -1,0 +1,10 @@
+requests
+psutil
+jwt
+protobuf
+protobuf-decoder
+cfonts
+rich
+xKEys
+x3SKR
+google
