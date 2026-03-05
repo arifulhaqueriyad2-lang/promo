@@ -1,0 +1,77 @@
+Format - !e {uid}{emote id}
+example - !e 521475527 909051014
+                ^             ^
+           this is your     this is your 
+               uid              emote id 
+
+
+you can use 4 uids at a time 
+example !e 521475527 12345678 11111111 10000001 (emote id)
+then in the end use emote id  
+
+
+#made by winter ❄️ credit lene hai to lelo 
+
+
+                     <normal emotes>
+
+!e 521475527 909051014 puffy ride
+!e 521475527 909050009 (circle)
+!e 521475527 909051013 petals
+!e 521475527 909051012 bow
+!e 521475527 909051010 moterbike
+!e 521475527 909051004 shower
+!e 521475527 909051002 dream
+!e 521475527 909051001 angelic
+!e 521475527 909048015 paint
+!e 521475527 909044015 sword
+!e 521475527 909041008 flar
+!e 521475527 909049003 (owl)
+!e 521475527 909050008 thor
+!e 521475527 909049001(bigdill)
+!e 521475527 909041013 (cs gm)
+!e 521475527 909050014 (map read)
+!e 521475527 909050015 (tomato)
+!e 521475527 909050002 (ninja summon)
+!e 521475527 909042007 (100 lvl)
+!e 521475527 909050028 (auraboat)
+!e 521475527 909049012 (flying guns)
+!e 521475527 909000045 (I heart you)
+!e 521475527 909000034 (pirate flag)
+!e 521475527 909000012 (push up)
+!e 521475527 909000020 (devil move)
+!e 521475527 909000008 (shoot dance)
+!e 521475527 909000006 (chicken)
+!e 521475527 909000014 (THRONE)
+!e 521475527 909000010 (rose)
+!e 521475527 909038004 (valentine heart)
+!e 521475527 909034001 (rampage book)
+!e 521475527 909049017 (guild flag)
+!e 521475527 909040004 (fish)
+!e 521475527 909041003 (inosuke)
+!e 521475527 909041012 (br grandmaster)
+
+                
+               <Evo Emotes From Here>
+
+
+!e 521475527 909049010 (evo p90)
+!e 521475527 909051003 (evo m60) new
+!e 521475527 909033002 (evo mp5)
+!e 521475527  909041005 (evo groza)
+!e 521475527 909038010 (thompson evo)
+!e 521475527 909039011(evo M10 red)
+!e 521475527 909040010 (evo mp40 blue)
+!e 521475527 909000081(evo m10 green)
+!e 521475527 909000085 (evo xm8)
+!e 521475527 909000063 (evo ak)
+!e 521475527 909000075 (evo mp40)
+!e 521475527 909033001 (evo m4A1)
+!e 521475527 909000090 (evo famas)
+!e 521475527 909000068 (evo scar)
+!e 521475527 909000098 (evo ump)
+!e 521475527 909035007 (evo m18)
+!e 521475527 909037011 (evo fist)
+!e 521475527 909038012 (evo g18)
+!e 521475527 909035012 (evo AN94)
+!e 521475527 909042008 (evo Woodpecker)
