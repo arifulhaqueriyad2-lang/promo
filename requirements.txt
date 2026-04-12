@@ -6,3 +6,4 @@ protobuf
 Flask
 flask-cors
 pycryptodome
+protobuf-decoder
