@@ -1,0 +1,8 @@
+requests
+psutil
+PyJWT
+urllib3
+protobuf
+Flask
+flask-cors
+pycryptodome
