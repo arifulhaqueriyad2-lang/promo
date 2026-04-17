@@ -1,0 +1,2 @@
+admin_password=RIYAD
+global_duration=1000

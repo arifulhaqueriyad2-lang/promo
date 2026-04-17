@@ -1,0 +1,11 @@
+# Rijexx Free Fire Bot Credentials
+# Fill in your Free Fire account credentials below
+
+# Format 1: Comma-separated (RECOMMENDED)
+uid=4263143059,password=2336099414_W0363_BY_SPIDEERIO_GAMING_WBYMF
+
+# OR Format 2: Line-separated
+# uid: 4263143059
+# password: 2336099414_W0363_BY_SPIDEERIO_GAMING_WBYMF
+
+# Save this file and restart the bot
